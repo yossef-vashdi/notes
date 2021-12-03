@@ -5,6 +5,7 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import "./css/note.css";
 import "./css/addNote.css";
+import "./css/home.css";
 
 ReactDOM.render(
   <React.StrictMode>

@@ -1,0 +1,10 @@
+* {
+  padding: 0rem;
+  margin: 0rem;
+}
+.home {
+  background-image: url("../img/learning.jpeg");
+  background-size: cover;
+  width: 30%;
+  height: 70vh;
+}

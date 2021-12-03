@@ -1,5 +1,5 @@
 import React from "react";
-import { deleteNotes, editNotes } from "./ServerCommunication/Notes";
+import { deleteNotes } from "./ServerCommunication/Notes";
 import Modal from "react-modal";
 import AddNote from "./AddNote";
 Modal.setAppElement("#root");
